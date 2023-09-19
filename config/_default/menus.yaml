@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 7a813ed7-b7d9-5d0e-74d0-4e14ee80341d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3580417f-1d22-a9ba-f974-b212d3ee25ef
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: beaff389-6649-44c3-f09b-250a057f5b69
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: c1184683-2f8e-b177-a27b-737a8d313019
+  name: Nutshells & GUIs
+  pageRef: /pages/nutshells-guis
+  weight: 40
+- identifier: 93ae0013-3708-3468-bad3-76082ff69074
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: cb79aabd-9092-dadd-23de-ad3d60b7f8b6
+  name: MATLAB Tutorials
+  pageRef: /pages/matlab-tutorials
+  weight: 60
+- identifier: 0de8b5a2-587a-eac1-1a06-aa21b2ba695b
+  name: Videos
+  pageRef: /video_galleries/videos
+  weight: 70
+- identifier: 5b481eff-157b-19d5-ed16-7c4b6220d00b
+  name: Mini Quizzes
+  pageRef: /pages/mini-quizzes
+  weight: 80
